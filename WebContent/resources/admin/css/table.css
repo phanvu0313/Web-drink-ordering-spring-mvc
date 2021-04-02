@@ -1,0 +1,32 @@
+body {
+   
+}
+
+.form-control::placeholder {
+    font-style: italic;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    size: 200%;
+}
+
+.table input {
+    border: none;
+}
+
+#edit {
+    width: 45%;
+    margin: 2%;
+    background-color: blue;
+    color: white;
+}
+
+#delete {
+    width: 100%;
+    background-color:red;
+    color: white;
+}
